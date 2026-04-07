@@ -1,7 +1,12 @@
 aid: reliance-steel-and-aluminum
-url: https://raw.githubusercontent.com/api-evangelist/reliance-steel-and-aluminum/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/reliance-steel-and-aluminum/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.reliance-steel-and-aluminum.com
+description: >-
+  Reliance Steel & Aluminum is the largest metals service center company in North
+  America, providing value-added metals processing services and distributing a full
+  line of metal products.
