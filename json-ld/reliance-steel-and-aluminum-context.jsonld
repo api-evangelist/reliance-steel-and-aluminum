@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "metals": "https://api-evangelist.github.io/reliance-steel-and-aluminum/vocab/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "Organization": "schema:Organization",
+    "Product": "schema:Product",
+    "Service": "schema:Service",
+    "Place": "schema:Place",
+    "Order": "schema:Order",
+    "Invoice": "schema:Invoice",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "address": "schema:address",
+    "telephone": "schema:telephone",
+    "email": "schema:email",
+
+    "ServiceCenter": {
+      "@id": "metals:ServiceCenter",
+      "@type": "@id",
+      "comment": "A metals distribution and processing facility operated by Reliance"
+    },
+    "MetalProduct": {
+      "@id": "metals:MetalProduct",
+      "@type": "@id",
+      "comment": "A metal product such as plate, sheet, bar, tube, coil, or structural shape"
+    },
+    "ProcessingService": {
+      "@id": "metals:ProcessingService",
+      "@type": "@id",
+      "comment": "A value-added processing service such as cutting, shearing, or stamping"
+    },
+    "MillCertificate": {
+      "@id": "metals:MillCertificate",
+      "@type": "@id",
+      "comment": "A quality certification document from the originating mill"
+    },
+    "MaterialGrade": {
+      "@id": "metals:MaterialGrade",
+      "@type": "@id",
+      "comment": "A specific alloy grade or specification designation"
+    },
+    "metalType": {
+      "@id": "metals:metalType",
+      "@type": "xsd:string",
+      "comment": "The type of metal (aluminum, steel, stainless, titanium, copper, etc.)"
+    },
+    "alloyGrade": {
+      "@id": "metals:alloyGrade",
+      "@type": "xsd:string",
+      "comment": "The specific alloy grade or specification (e.g., 6061-T6, A36, 316L)"
+    },
+    "thickness": {
+      "@id": "metals:thickness",
+      "@type": "xsd:decimal",
+      "comment": "Thickness of a flat metal product in inches or millimeters"
+    },
+    "width": {
+      "@id": "metals:width",
+      "@type": "xsd:decimal",
+      "comment": "Width of a flat metal product in inches or millimeters"
+    },
+    "length": {
+      "@id": "metals:length",
+      "@type": "xsd:decimal",
+      "comment": "Length of a metal product in inches or feet"
+    },
+    "weight": {
+      "@id": "metals:weight",
+      "@type": "xsd:decimal",
+      "comment": "Weight of a metal product in pounds or kilograms"
+    },
+    "productForm": {
+      "@id": "metals:productForm",
+      "@type": "xsd:string",
+      "comment": "The physical form of the product: plate, sheet, coil, bar, tube, pipe, structural"
+    },
+    "processingType": {
+      "@id": "metals:processingType",
+      "@type": "xsd:string",
+      "comment": "Type of value-added processing: cutting, shearing, sawing, leveling, stamping"
+    },
+    "serviceCenter": {
+      "@id": "metals:serviceCenter",
+      "@type": "@id",
+      "comment": "Reference to the service center fulfilling an order"
+    },
+    "leadTime": {
+      "@id": "metals:leadTime",
+      "@type": "xsd:string",
+      "comment": "Expected delivery lead time for an order"
+    },
+    "endMarket": {
+      "@id": "metals:endMarket",
+      "@type": "xsd:string",
+      "comment": "Target industry end market: aerospace, automotive, defense, energy, electronics, construction"
+    }
+  }
+}

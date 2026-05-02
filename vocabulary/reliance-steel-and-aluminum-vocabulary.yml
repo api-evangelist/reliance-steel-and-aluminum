@@ -1,0 +1,161 @@
+vocabulary:
+  provider: Reliance Steel & Aluminum
+  description: >-
+    Domain vocabulary for metals distribution, processing, and supply chain
+    management at Reliance Steel & Aluminum Co.
+  terms:
+    - term: Service Center
+      definition: >-
+        A metals distribution and processing facility that stocks, cuts, and
+        delivers metal products to end customers, adding value through
+        processing before sale.
+      tags:
+        - Distribution
+        - Operations
+
+    - term: Value-Added Processing
+      definition: >-
+        Metals processing services performed at the service center before
+        delivery, including cutting-to-length, shearing, blanking, sawing,
+        leveling, stamping, and custom fabrication.
+      tags:
+        - Processing
+        - Manufacturing
+
+    - term: Mill Certificate
+      definition: >-
+        A quality assurance document from the steel or aluminum mill certifying
+        that a product meets the specified chemical and mechanical properties.
+      tags:
+        - Quality
+        - Compliance
+
+    - term: Just-in-Time Delivery
+      definition: >-
+        A supply chain model where materials are delivered to customers exactly
+        when needed to reduce inventory carrying costs and waste.
+      tags:
+        - Supply Chain
+        - Logistics
+
+    - term: Alloy
+      definition: >-
+        A metallic substance composed of two or more elements, at least one of
+        which is a metal, designed to have specific material properties for
+        industrial applications.
+      tags:
+        - Materials
+        - Metals
+
+    - term: Carbon Steel
+      definition: >-
+        Steel with carbon as the primary alloying element, used widely in
+        structural, mechanical, and industrial applications.
+      tags:
+        - Metals
+        - Steel
+
+    - term: Stainless Steel
+      definition: >-
+        A steel alloy with a minimum of 10.5% chromium content providing
+        corrosion resistance, used in food, medical, and chemical applications.
+      tags:
+        - Metals
+        - Steel
+
+    - term: Aluminum
+      definition: >-
+        A lightweight, corrosion-resistant metal widely used in aerospace,
+        automotive, construction, and packaging applications.
+      tags:
+        - Metals
+        - Aluminum
+
+    - term: Titanium
+      definition: >-
+        A strong, lightweight, corrosion-resistant metal used in aerospace,
+        medical, and defense applications.
+      tags:
+        - Metals
+        - Specialty
+
+    - term: EDI (Electronic Data Interchange)
+      definition: >-
+        A standardized electronic format for exchanging business documents such
+        as purchase orders, invoices, and shipping notices between trading
+        partners.
+      tags:
+        - Integration
+        - Supply Chain
+
+    - term: Coil
+      definition: >-
+        A continuous strip of metal wound into a roll for transport and
+        processing, commonly used in flat-rolled steel and aluminum products.
+      tags:
+        - Products
+        - Metals
+
+    - term: Plate
+      definition: >-
+        A flat piece of metal with thickness typically greater than 6mm, used
+        in structural and heavy industrial applications.
+      tags:
+        - Products
+        - Metals
+
+    - term: Sheet
+      definition: >-
+        A flat piece of metal with thickness less than 6mm, used in
+        automotive, appliance, and construction applications.
+      tags:
+        - Products
+        - Metals
+
+    - term: Bar
+      definition: >-
+        A solid, elongated metal product with a uniform cross-section (round,
+        square, flat, hex) used in machined parts and structural applications.
+      tags:
+        - Products
+        - Metals
+
+    - term: Tube and Pipe
+      definition: >-
+        Hollow cylindrical metal products used in plumbing, structural, and
+        industrial fluid transfer applications.
+      tags:
+        - Products
+        - Metals
+
+    - term: Tolling
+      definition: >-
+        A processing arrangement in which a customer provides raw metal
+        material and pays only for the processing services performed.
+      tags:
+        - Services
+        - Processing
+
+    - term: Inventory Management
+      definition: >-
+        The process of tracking and controlling metal product stock levels
+        across service center locations to meet customer demand efficiently.
+      tags:
+        - Supply Chain
+        - Operations
+
+    - term: Spot Market
+      definition: >-
+        Short-term purchasing of metals at current market prices, as opposed
+        to long-term contract pricing.
+      tags:
+        - Pricing
+        - Procurement
+
+    - term: LME (London Metal Exchange)
+      definition: >-
+        The world's leading futures and forwards market for base metals, whose
+        pricing benchmarks are used to set aluminum and copper contract prices.
+      tags:
+        - Pricing
+        - Finance
