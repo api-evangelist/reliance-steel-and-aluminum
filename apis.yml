@@ -74,9 +74,9 @@ useCases:
       Supply high-purity aluminum, copper, and specialty metals for
       semiconductor fabrication and electronics manufacturing.
 integrations:
-  - name: SAP Integration
+  - name: SAP
     description: EDI and API integration with SAP ERP procurement workflows
-  - name: Oracle Integration
+  - name: Oracle
     description: EDI connectivity for Oracle ERP purchase order automation
   - name: Cleo Integration
     description: EDI trading partner integration via Cleo platform
