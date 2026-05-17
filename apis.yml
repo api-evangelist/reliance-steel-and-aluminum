@@ -32,7 +32,7 @@ common:
     url: https://investors.reliance.com
   - type: EDI Integration
     url: https://www.cleo.com/trading-partner-network/reliance-steel-aluminum
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/reliance-steel-aluminum
   - type: LinkedIn
     url: https://www.linkedin.com/company/reliance-steel-&-aluminum-co-
