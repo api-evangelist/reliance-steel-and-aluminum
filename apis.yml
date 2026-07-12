@@ -25,6 +25,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/reliance-steel-and-aluminum-domain-security.yml
   - type: Website
     url: https://www.reliance.com
   - type: About
