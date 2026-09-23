@@ -1,7 +1,9 @@
 ---
 title: Reliance Steel & Aluminum Co. Completes Acquisition Of ...
 url: https://www.prnewswire.com/news-releases/reliance-steel--aluminum-co-completes-acquisition-of-tubular-steel-inc-300198791.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Reliance Steel & Aluminum" press release artificial intelligence'
 position: 4
 source: serpapi-google

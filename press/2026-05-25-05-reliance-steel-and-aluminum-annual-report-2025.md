@@ -1,7 +1,9 @@
 ---
 title: Reliance Steel & Aluminum Annual Report 2025 ...
 url: https://stocklight.com/stocks/us/nyse-rs/reliance-steel-aluminum/annual-reports/nyse-rs-2025-10K-25678709.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Reliance Steel & Aluminum" press release artificial intelligence'
 position: 5
 source: serpapi-google
