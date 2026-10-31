@@ -64,45 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Reliance Steel & Aluminum Co. is the largest metals service center in North America, providing value-added metals processing services and distributing a full line of metal products. The company operates over 300 service center locations across 40 US states and 13 countries, serving more than 130,000 customers across aerospace, automotive, defense, energy, electronics, construction, and semiconductor end markets.
+Reliance Steel & Aluminum Co. is the largest metals service center in North America, providing value-added metals processing services and distributing a full line of metal products including aluminum, brass, bronze, carbon and alloy steel, copper, titanium, and stainless steel. Operating over 300 service center locations across 40 US states and 13 countries, Reliance serves more than 130,000 customers across aerospace, automotive, defense, energy, electronics, construction, and semiconductor end markets.
 
-Reliance distributes aluminum, brass, bronze, carbon and alloy steel, copper, titanium, and stainless steel. The company's business model emphasizes value-added processing — cutting, shearing, sawing, leveling, stamping, and custom fabrication — rather than commodity metals distribution.
+**Areas:** Metals · Manufacturing · Distribution · Supply Chain · Steel · Aluminum · Fortune 500
 
-## Links
+## Reliance Steel & Aluminum on APIs.io
 
-- **Website:** https://www.reliance.com
-- **Investor Relations:** https://investors.reliance.com
-- **LinkedIn:** https://www.linkedin.com/company/reliance-steel-&-aluminum-co-
+Everything profiled for Reliance Steel & Aluminum is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/reliance-steel-and-aluminum/](https://apis.io/providers/reliance-steel-and-aluminum/)** — or go straight to one of the APIs or properties below.
 
-## Products & Metals
+### Published properties
 
-- Aluminum (sheet, plate, coil, extrusions)
-- Carbon and Alloy Steel (plate, sheet, bar, structural)
-- Stainless Steel (sheet, plate, bar, tube)
-- Titanium (sheet, plate, bar, wire)
-- Copper, Brass, and Bronze
-- Specialty Alloys
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Services
+#### JSON-LD (1)
 
-- **Value-Added Processing:** Cutting-to-length, shearing, blanking, sawing, leveling, stamping
-- **Just-in-Time Delivery:** Inventory management and supply chain optimization
-- **EDI Integration:** Electronic procurement via EDI standards (850, 855, 856, 810)
-- **Tolling:** Processing of customer-owned material
+Linked-data contexts for the provider's vocabulary.
 
-## End Markets
+- [Reliance Steel And Aluminum Context](https://apis.io/jsonld/reliance-steel-and-aluminum/reliance-steel-and-aluminum-context/)
 
-Aerospace, Automotive, Defense, Energy, Electronics, Construction, Semiconductor
+#### Vocabulary (1)
 
-## Integration
+The provider's domain terms, defined.
 
-Reliance supports EDI integration for procurement workflows compatible with major ERP systems including SAP and Oracle. EDI trading partner integration is facilitated via Cleo and similar platforms.
+- [Reliance Steel And Aluminum Vocabulary](https://apis.io/vocabularies/reliance-steel-and-aluminum/reliance-steel-and-aluminum-vocabulary/)
 
-**EDI Integration:** https://www.cleo.com/trading-partner-network/reliance-steel-aluminum
+#### Security (1)
 
-## Artifacts
+Authentication, trust centre, and vulnerability disclosure.
 
-| Type | File |
+- [Reliance Steel And Aluminum Domain Security](https://apis.io/security/reliance-steel-and-aluminum/reliance-steel-and-aluminum-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.reliance.com)
+- [GitHub](https://github.com/reliance-steel-aluminum)
+
+## API Evangelist rating
+
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
 |---|---|
-| Vocabulary | [reliance-steel-and-aluminum-vocabulary.yml](vocabulary/reliance-steel-and-aluminum-vocabulary.yml) |
-| JSON-LD Context | [reliance-steel-and-aluminum-context.jsonld](json-ld/reliance-steel-and-aluminum-context.jsonld) |
+| Discoverability | 48.2 |
+| Contract quality | 14.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reliance-steel-and-aluminum/](https://apis.io/providers/reliance-steel-and-aluminum/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Reliance Steel & Aluminum: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/reliance-steel-and-aluminum/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
